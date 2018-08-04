@@ -1,6 +1,6 @@
-Php-fpm com módulos adicionais
+Php-Apache com módulos adicionais
 
-Baseado na imagem **php:7.2.8-fpm-alpine**
+Baseado na imagem **php:7.2.8-apache-stretch**
 
 Módulos:
 - mysqli
@@ -15,5 +15,5 @@ Módulos:
 
 como executar:
 ```
-docker build . -t phpstart
+docker build . -t phpstart-apache
 ```
