@@ -11,6 +11,7 @@ Módulos:
 - curl
 - apcu
 - zip
+- xdebug
 - composer v1.6.5
 
 como executar:
