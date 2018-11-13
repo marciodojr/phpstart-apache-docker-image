@@ -12,6 +12,7 @@ Módulos:
 - apcu
 - zip
 - xdebug
+- gd
 - composer v1.6.5
 
 como executar:
